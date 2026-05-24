@@ -1,0 +1,12 @@
+   target/
+   .mvn/
+   .idea/
+   *.iml
+   .vscode/
+   application.properties
+   application.yml
+   *.log
+   .env
+   *.jar
+   HELP.md
+   .DS_Store
